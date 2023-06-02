@@ -1,0 +1,11 @@
+.footer{
+      position:fixed;
+      bottom:0;
+      display:block;  
+      width:100%;     
+      padding: 10px;    
+      background-color: black;   
+      text-align: center;
+      color: beige;      
+ }
+
